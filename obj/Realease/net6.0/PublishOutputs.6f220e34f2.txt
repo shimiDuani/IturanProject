@@ -1,0 +1,11 @@
+C:\Users\shimi\OneDrive\שולחן העבודה\יהלום\NewProjectIturan2\publish\NewProjectIturan2.exe
+C:\Users\shimi\OneDrive\שולחן העבודה\יהלום\NewProjectIturan2\publish\appsettings.Development.json
+C:\Users\shimi\OneDrive\שולחן העבודה\יהלום\NewProjectIturan2\publish\appsettings.json
+C:\Users\shimi\OneDrive\שולחן העבודה\יהלום\NewProjectIturan2\publish\NewProjectIturan2.dll
+C:\Users\shimi\OneDrive\שולחן העבודה\יהלום\NewProjectIturan2\publish\NewProjectIturan2.deps.json
+C:\Users\shimi\OneDrive\שולחן העבודה\יהלום\NewProjectIturan2\publish\NewProjectIturan2.runtimeconfig.json
+C:\Users\shimi\OneDrive\שולחן העבודה\יהלום\NewProjectIturan2\publish\NewProjectIturan2.pdb
+C:\Users\shimi\OneDrive\שולחן העבודה\יהלום\NewProjectIturan2\publish\Microsoft.OpenApi.dll
+C:\Users\shimi\OneDrive\שולחן העבודה\יהלום\NewProjectIturan2\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shimi\OneDrive\שולחן העבודה\יהלום\NewProjectIturan2\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shimi\OneDrive\שולחן העבודה\יהלום\NewProjectIturan2\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
